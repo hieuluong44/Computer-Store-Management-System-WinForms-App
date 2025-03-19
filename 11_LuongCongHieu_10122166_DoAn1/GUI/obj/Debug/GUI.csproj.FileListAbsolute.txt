@@ -1,0 +1,124 @@
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\FrmTrangChu.cs.exe.config
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\FrmTrangChu.cs.exe
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\FrmTrangChu.cs.pdb
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Data.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Images.v19.2.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Data.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.Email.resources
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.FrmQuanLyNhanVien.resources
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.FrmTrangChu.resources
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.Properties.Resources.resources
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.exe.licenses
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\GUI.csproj.CopyComplete
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.exe
+F:\ĐoAn1_10122166_LuongCongHieu\Đồ án 1\QuanLyCuaHangMayTinh\obj\Debug\FrmTrangChu.cs.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyNhanVien.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmTrangChu.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.Properties.Resources.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.exe.licenses
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.exe
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.pdb
+F:\GUI\FrmTrangChu.cs.exe.config
+F:\GUI\FrmTrangChu.cs.exe
+F:\GUI\FrmTrangChu.cs.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmEmail.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmDangNhap.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyHangHoa.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyTaiKhoan.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyKhachHang.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyHoaDonBan.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyChucVu_TinhLuong.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyNhaCungCap.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmChiTietHoaDonBan.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmDanhMucMatHang.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmChiTietHoaDonNhap.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyHoaDonNhap.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.PhieuHoaDonNhap.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.PhieuHoaDonBan.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyThongKeDoanhThu.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuanLyThongKeMatHang.resources
+F:\11_LuongCongHieu_10122166_DoAn1\GUI\obj\Debug\FrmTrangChu.cs.FrmQuenMatKhau.resources

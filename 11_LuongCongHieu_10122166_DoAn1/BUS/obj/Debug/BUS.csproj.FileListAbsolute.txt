@@ -1,0 +1,14 @@
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\BUS.dll
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\BUS.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\DAL.dll
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\DTO.dll
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\EntityFramework.dll
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\DAL.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\DTO.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\DTO.dll.config
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\bin\Debug\EntityFramework.xml
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\obj\Debug\BUS.dll
+F:\11_LuongCongHieu_10122166_DoAn1\BUS\obj\Debug\BUS.pdb

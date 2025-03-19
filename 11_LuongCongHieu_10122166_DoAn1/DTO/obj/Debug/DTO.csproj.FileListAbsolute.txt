@@ -1,0 +1,12 @@
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\DTO.dll.config
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\DTO.dll
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\DTO.pdb
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\EntityFramework.dll
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\EntityFramework.SqlServer.dll
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\EntityFramework.xml
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\bin\Debug\EntityFramework.SqlServer.xml
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\obj\Debug\DTO.dll
+F:\11_LuongCongHieu_10122166_DoAn1\DTO\obj\Debug\DTO.pdb
